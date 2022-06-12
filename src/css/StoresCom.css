@@ -1,0 +1,11 @@
+.card_wrap {
+    grid-template-columns: 1fr 2fr 100px 25%;
+}
+
+.card {
+
+}
+
+.pic {
+    width: 250px;
+}

@@ -1,0 +1,44 @@
+.one {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.one .title_wrap {
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 300px;
+    margin-left: 300px;
+    padding: 0;
+    width: 500px;
+}
+
+.one .title {
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #845EC2;
+    font-weight: bold;
+
+}
+
+.one .titleSub {
+    font-size: 20px;
+    color: #4B4453;
+    font-weight: bold;
+    margin-top: 15px;
+
+}
+
+.one .food_wrap {
+    width: 750px;
+
+    cursor: pointer;
+}
+
+.one .food_wrap {
+    margin-top: 180px;
+}
+
+.one .foodPic {
+    border-radius: 20px;
+}

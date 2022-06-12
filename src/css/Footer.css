@@ -1,0 +1,30 @@
+.footer {
+    display: inline-block;
+    background-color: #252424;
+    width: 100%;
+    height: 130px;
+    color: #fff;
+}
+.footer .title {
+    color: #fff;
+    margin: 20px 0 0 30px;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.footer .content {
+    color: #fff;
+    margin: 10px 0 0 30px;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}
+
+.footer .copy {
+    color: #fff;
+    margin: 10px 0 0 30px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    opacity: 0.6;
+}

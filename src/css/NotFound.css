@@ -1,0 +1,19 @@
+.wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.wrap .title  {
+    position: relative;
+    font-size: 30px;
+    letter-spacing: 20px;
+    margin-top: 300px;
+}
+
+.wrap .title p {
+    text-align: center;
+    margin-top: 20px;
+}
