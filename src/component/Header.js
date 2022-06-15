@@ -7,10 +7,12 @@ function Header() {
     return (
         <>
             <nav className="navi">
-                <div className="title"><Link to="/">Awesome food store</Link></div>
+                <div className="title"><Link to="/">AWESOME</Link></div>
                 <ul>
-                    <li><Link className="link" to="/about">ABOUT</Link></li>
-                    <li><Link to="/">STORES</Link></li>
+                    <li><Link className="link" to="/">ABOUT</Link></li>
+                    <li><Link to="/stores">STORES</Link></li>
+                    <li><Link to="/members">MEMBERS</Link></li>
+                    <li><Link to="/login">LOGIN</Link></li>
                 </ul>
             </nav>
         </>

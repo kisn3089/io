@@ -1,6 +1,7 @@
 import React from 'react';
 import "../css/About.css";
 import food from "../food.png"
+import food1 from '../food1.jpeg'
 
 
 function About() {
@@ -16,7 +17,7 @@ function About() {
                     </p>
                 </div>
                 <div className="food_wrap">
-                    <img className="foodPic" src= { food } />
+                    <img className="foodPic" style={{width: 700}} src= { food } />
                 </div>
             </section>
         </>

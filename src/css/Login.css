@@ -1,0 +1,14 @@
+.form-box {
+
+}
+
+.wrap {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.id {
+    margin-top: 30px;
+}

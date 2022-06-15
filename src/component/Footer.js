@@ -6,7 +6,7 @@ function Footer() {
         <>
             <div className="footer">
                 <div className="title">
-                    Awesome food store
+                    IT'S ME
                 </div>
                 <div className="content">
                     서울특별시 00구 000로 000 | 대표이사: 황인성 | 법인등록번호: 000-00-00000 | 서울특별시 강남구 00동 000
